@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/simply/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/simply/</link>
 	<description>My WordPress Blog</description>
 	<lastBuildDate>Sun, 18 Jun 2023 14:18:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
